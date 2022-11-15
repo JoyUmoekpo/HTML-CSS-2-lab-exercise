@@ -1,15 +1,15 @@
-.banner {
-
+header {
+    color: thistle;
 }
 
-.banner-left {
-
+.left {
+    color: thistle;
 }
 
-.banner-right {
-
+.right {
+    color: thistle;
 }
 
-.footer {
-
+footer {
+    color: thistle;
 }
