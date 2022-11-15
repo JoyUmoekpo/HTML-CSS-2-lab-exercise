@@ -42,14 +42,14 @@ section {
     margin-bottom: 10px;
 }
 
-/* #rectangle {
+#rectangle {
     background-color: lightgoldenrodyellow;
     margin-top: 5vh;
     margin-left: 5vh;
     height: 20vh;
     width: 130vh;
     box-shadow: #000 5px 5px;
-} */
+}
 
 #shadow {
     box-sizing: border-box;
