@@ -53,5 +53,21 @@ section {
 
 #shadow {
     box-sizing: border-box;
-    border: box-shadow;
+}
+
+#friends {
+    background-color: #fff;
+    box-shadow: 3px 3px 5px 3px #ccc;
+    margin: 5px auto;
+    height: 30vh;
+    width: 50vh;
+}
+
+#friends h1 {
+    text-align: center;
+    letter-spacing: 10px;
+    color: navy;
+    width: 100%;
+    padding-top: 7vh;
+    padding-left: 1vh;
 }
