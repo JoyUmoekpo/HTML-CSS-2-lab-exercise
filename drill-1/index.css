@@ -1,15 +1,26 @@
+body {
+    margin: 0;
+    background-color: #D8D8D8;
+    width: 100%;
+    height: 100vh;
+}
+
 header {
-    color: thistle;
+    width: 100%;
+    height: 20vh;
+    background-color: #505050;
 }
 
-.left {
-    color: thistle;
-}
-
-.right {
-    color: thistle;
+main {
+    background-color: #EFEFEF;
+    margin: 0 auto;
+    width: 75%;
+    height: 70vh;
 }
 
 footer {
-    color: thistle;
+    background-color: #000;
+    margin: 0 auto;
+    width: 75%;
+    height: 10vh;
 }
