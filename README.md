@@ -11,10 +11,3 @@ Please download the contents of this lab to see the images you need to recreate.
 Since there are so many ways you can create the layout with HTML and CSS, there will not be a guide. However, if you get stuck, there will be an included solution to help you.
 
 As stated before, your code doesn’t need to match the solution exactly, but it should match the provided image as closely as possible.
-
-When you are done, create a repo and push your code to GitHub.
-
-Intermediate: SpaceX Clone
-Create a new folder with `index.html` and `styles.css` files. Visit the [SpaceX](https://www.spacex.com/) website and make a clone of the homepage.
-
-Don’t worry about the animations or interactions, just practice with the layout.
